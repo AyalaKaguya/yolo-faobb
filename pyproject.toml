@@ -1,0 +1,13 @@
+[project]
+name = "yolo-faobb"
+version = "0.1.0"
+description = "2-Stage YOLOs: Full-angle rotation bounding box prediction via four-way classification, prepare for end-to-end."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipympl>=0.9.7",
+    "jupyter>=1.1.1",
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+    "ultralytics>=8.3.168",
+]

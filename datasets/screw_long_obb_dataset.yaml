@@ -1,0 +1,6 @@
+path: screw_long_obb_dataset
+train: images
+val: images
+
+names:
+  0: screw_long
